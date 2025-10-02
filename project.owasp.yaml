@@ -1,0 +1,19 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: raushan raj
+    email: raushan.raj@owasp.org
+level: 2
+name: OWASP Auto DevSecOps
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-auto-devsecops
+    url: https://github.com/OWASP/www-project-auto-devsecops
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-auto-devsecops
